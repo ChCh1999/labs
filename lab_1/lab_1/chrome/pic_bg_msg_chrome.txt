@@ -1,0 +1,24 @@
+General：
+Request URL: http://cs.whu.edu.cn/images/pic-bg.png
+Request Method: GET
+Status Code: 404 Not Found
+Remote Address: 202.114.64.41:80
+Referrer Policy: no-referrer-when-downgrade
+
+Response Header：
+HTTP/1.1 404 Not Found
+Content-Length: 0
+Server: WWW Server/1.1
+X-Powered-By: ASP.NET
+X-Safe-Firewall: zhuji.360.cn 1.0.9.47 F1W1
+Date: Fri, 06 Mar 2020 02:06:49 GMT
+
+Request Header：
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-TW;q=0.6
+Connection: keep-alive
+Cookie: UM_distinctid=16e785231f165d-09c44a2bf274a9-67e153a-144000-16e785231f2a88; iPlanetDirectoryPro=h7vzljw1L3dGWnPpEAKN4D
+Host: cs.whu.edu.cn
+Referer: http://cs.whu.edu.cn/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36
